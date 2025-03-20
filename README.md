@@ -1,0 +1,1 @@
+This is a Data Analysis Report for Titanic dataset. It gives detailed analysis for various factors such as Passenger Class, Port, Fare etc which have a probable impact upon the Rate of Survival of the Passengers.
